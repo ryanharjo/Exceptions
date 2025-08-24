@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\bin\Debug\net8.0\Exceptions_Harjo_Ryan.exe
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\bin\Debug\net8.0\Exceptions_Harjo_Ryan.deps.json
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\bin\Debug\net8.0\Exceptions_Harjo_Ryan.runtimeconfig.json
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\bin\Debug\net8.0\Exceptions_Harjo_Ryan.dll
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\bin\Debug\net8.0\Exceptions_Harjo_Ryan.pdb
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.AssemblyInfo.cs
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.dll
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\refint\Exceptions_Harjo_Ryan.dll
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.pdb
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\Exceptions_Harjo_Ryan.genruntimeconfig.cache
+C:\Users\Student\Desktop\C# Program Projects\Exceptions_Harjo_Ryan\obj\Debug\net8.0\ref\Exceptions_Harjo_Ryan.dll
